@@ -14,8 +14,4 @@ function fixAvatars() {
 	});
 }
 
-// Interval because of new avatars being added to the DOM (e.g. new friend added or new group joined)
-setInterval(fixAvatars, 5000);
-
-// Timeout to make sure avatars are loaded before fixing them. If your PC is too slow the interval above will fix them anyway.
-setTimeout(fixAvatars, 1000);
+window.addEventListener("blur", fixAvatars);
