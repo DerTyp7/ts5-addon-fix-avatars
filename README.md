@@ -2,7 +2,9 @@
 
 This is a simple script that fixes the bug that avatars are not fully displayed and cut off at the bottom.
 This addon uses a workaround due to limitations in the TS5 addon integration.  
-![image](https://github.com/DerTyp7/ts5-addon-fix-avatars/assets/76851529/752da48e-3bae-4789-b8bc-29e05c5ff94a)  ![image](https://github.com/DerTyp7/ts5-addon-fix-avatars/assets/76851529/efefa04e-c5d7-477a-bf45-ff36b60d35ec)
+![image](https://github.com/DerTyp7/ts5-addon-fix-avatars/assets/76851529/752da48e-3bae-4789-b8bc-29e05c5ff94a) ![image](https://github.com/DerTyp7/ts5-addon-fix-avatars/assets/76851529/efefa04e-c5d7-477a-bf45-ff36b60d35ec)
+
+> This code uses the [TS5AddonInstaller by FelixVolo](https://github.com/FelixVolo/TS5AddonInstaller)
 
 ## Installation
 
